@@ -2,3 +2,5 @@
  git config --global user.email mateusferrarifeliciano@gmail.com
  git add . (prepara pra upload na net de todos arquivos)
  git add "arquivo" (prepara um arquivo especifico pra upload na net)
+ git commit -m "nome da alteração" (mostra todas alterações que tiveram)
+ git push (manda os arquivos pra nuvem)
