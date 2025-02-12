@@ -1,0 +1,4 @@
+ git config --global user.name "Mateus-FerrariF"
+ git config --global user.email mateusferrarifeliciano@gmail.com
+ git add . (prepara pra upload na net de todos arquivos)
+ git add "arquivo" (prepara um arquivo especifico pra upload na net)
